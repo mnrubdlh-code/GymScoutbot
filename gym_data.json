@@ -1,0 +1,393 @@
+[
+  {
+    "id": 3,
+    "nama": "WWGYM Bondowoso Malang",
+    "lokasi": "Klojen",
+    "hp_wa": "081336545059",
+    "medsos": "https://www.instagram.com/wwgym_bondowoso_malang?igsh=MTU3ZXc3bDh3cGo1ag==",
+    "link_maps": "WWGYM Bondowoso Malang https://share.google/69J3lU0rkpU3DE9xu",
+    "link_drive": "https://drive.google.com/file/d/1aqNmKGHKly_1vYx--wdiIp-VP2AsgdLp/view?usp=drivesdk",
+    "gambar": "upload_7516462343_1783497297.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.967776128516556,
+    "longitude": 112.61589044025725
+  },
+  {
+    "id": 4,
+    "nama": "Grit Fitness Malang",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "0881036062600",
+    "medsos": "https://www.instagram.com/gritfitness.mlg?igsh=MXN0Znl5azczaGNtZA==",
+    "link_maps": "Grit Fitness Malang https://share.google/nUzUGUhmbczSNVA2h",
+    "link_drive": "https://drive.google.com/drive/folders/1mNstUKI9wtYFb8KtrTCGaVROWVyLbrFo",
+    "gambar": "upload_7516462343_1783497904.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.926221976067701,
+    "longitude": 112.6023732088634
+  },
+  {
+    "id": 5,
+    "nama": "Elite Fitness Malang",
+    "lokasi": "Klojen",
+    "hp_wa": "085179916586",
+    "medsos": "https://www.instagram.com/elitefitness_malang?igsh=MWJ3ZTZxbzZ5d3M0Zg==",
+    "link_maps": "Elite Fitness Malang https://share.google/zGCSmYvBj2ERGgSKx",
+    "link_drive": "https://drive.google.com/drive/folders/1mWz2h6sUrWKN7DfKxCsEz3CMCPUCTTU0",
+    "gambar": "upload_7516462343_1783498274.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.973784390396167,
+    "longitude": 112.62684501071483
+  },
+  {
+    "id": 6,
+    "nama": "Degym Platinum Malang",
+    "lokasi": "Klojen",
+    "hp_wa": "082228862049",
+    "medsos": "https://www.instagram.com/degymheritage.malang?igsh=czA2NDg4OGZ5NGpi",
+    "link_maps": "Degym Heritage Malang\nhttps://maps.app.goo.gl/mHhXGqBkRNh9zcbU7",
+    "link_drive": "https://drive.google.com/drive/folders/1bz5IlIMLz_7niwiweggs3s3QH1pv4Nrt",
+    "gambar": "upload_6354989899_1783498287.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.973392416247616,
+    "longitude": 112.62749816653557
+  },
+  {
+    "id": 7,
+    "nama": "Fitnes Plus Dinoyo",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "081130990990",
+    "medsos": "https://www.instagram.com/fitnessplus.dinoyo?igsh=b2w3ajhsN3lnaW4w",
+    "link_maps": "FITNESS PLUS DINOYO https://share.google/y9h6szIymyBDT5cNe",
+    "link_drive": "https://drive.google.com/drive/folders/1Suq5l2vcLYg49ME7nxxapYtGajmwCi_e",
+    "gambar": "upload_7516462343_1783498783.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.9407999180441395,
+    "longitude": 112.60796065304272
+  },
+  {
+    "id": 8,
+    "nama": "WWGYM Rampal Malang",
+    "lokasi": "Klojen",
+    "hp_wa": "+62 881-2151-757",
+    "medsos": "https://www.instagram.com/wwgym_rampal_malang?igsh=c3AwZXM1c2x3OGd3",
+    "link_maps": "https://share.google/eh55h0GAVKWLrXJF7",
+    "link_drive": "https://drive.google.com/drive/folders/1VhWHo3LCdz3oyre1Yg2Y0fCJlS-RuQSY",
+    "gambar": "upload_6354989899_1783522692.jpg",
+    "status": "approved",
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    },
+    "latitude": -7.9723894663467,
+    "longitude": 112.63816339537142
+  },
+  {
+    "id": 9,
+    "nama": "Malgym Gym Syariah Malang Khusus Pria",
+    "lokasi": "Blimbing",
+    "hp_wa": "08989222622",
+    "medsos": "https://www.instagram.com/malgym.id?igsh=M2t2c3Rtbmt1ZW56",
+    "link_maps": "https://share.google/DU2rju1iv81kvrEH7",
+    "link_drive": "",
+    "gambar": "upload_6701733823_1784085665.jpg",
+    "status": "approved",
+    "latitude": -7.931345965887553,
+    "longitude": 112.66263738002752,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 10,
+    "nama": "FIT HUB Dieng Malang",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "087734244490",
+    "medsos": "https://www.instagram.com/fitnesshubdiengmalang?igsh=OG5xMGI3NXVxdnZ4",
+    "link_maps": "FIT HUB Dieng Malang\nhttps://maps.app.goo.gl/Fqibpj3LLFUzAp1T7?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784085752.jpg",
+    "status": "approved",
+    "latitude": -7.972865515644177,
+    "longitude": 112.61339075119226,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 11,
+    "nama": "Fitnes Plus Sawojajar",
+    "lokasi": "Kedungkandang",
+    "hp_wa": "081130878989",
+    "medsos": "https://www.instagram.com/fitnessplussawojajar?igsh=MjdjZng0ZnBpdGZh",
+    "link_maps": "Fitness Plus Sawojajar\nhttps://maps.app.goo.gl/ssQ1eU5khi8jAMYx9?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_7516462343_1784086130.jpg",
+    "status": "approved",
+    "latitude": -7.981008942541811,
+    "longitude": 112.65463188187898,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 12,
+    "nama": "Max Gym Malang Reborn",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "082298042248",
+    "medsos": "https://www.instagram.com/maxgym_malang?igsh=MXQxYmdjM3JxdjNyZA==",
+    "link_maps": "Max Gym Malang Reborn\nhttps://maps.app.goo.gl/Va9Tes1dbSNofosMA?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784086163.jpg",
+    "status": "approved",
+    "latitude": -7.932277518272796,
+    "longitude": 112.61212600886344,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 13,
+    "nama": "Best Gym Malang (Fitness & Personal Trainer Soekarno Hatta)",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "+62 851-0148-1977",
+    "medsos": "https://www.instagram.com/bestgymmalang?igsh=ZHM4bGpycHl6bmh6",
+    "link_maps": "https://share.google/W27P6IOKS14lzSafp",
+    "link_drive": "",
+    "gambar": "upload_6701733823_1784086622.jpg",
+    "status": "approved",
+    "latitude": -7.936968731503021,
+    "longitude": 112.62604846653514,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 14,
+    "nama": "Starfit GYM Malang 24 jam",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "+62 831-9221-6120",
+    "medsos": "https://www.instagram.com/starfitgymmalang?igsh=MXRmMHJrbHk1bmhsaQ==",
+    "link_maps": "Starfit GYM Malang 24 jam\nhttps://maps.app.goo.gl/vruoamrc2UDskaua8?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784086691.jpg",
+    "status": "approved",
+    "latitude": -7.9463734953459335,
+    "longitude": 112.60893120886352,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 15,
+    "nama": "CAKRA GYM MALANG",
+    "lokasi": "Kedungkandang",
+    "hp_wa": "+62 858-8805-8880",
+    "medsos": "https://www.instagram.com/cakragym_malang?igsh=YWw3bWFycnFkMnh2",
+    "link_maps": "https://share.google/Rq8PKmnh9vENQ5ZTC",
+    "link_drive": "",
+    "gambar": "upload_6701733823_1784087098.jpg",
+    "status": "approved",
+    "latitude": -7.978971992165054,
+    "longitude": 112.68212056653569,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 16,
+    "nama": "3c gym malang",
+    "lokasi": "Sukun",
+    "hp_wa": "+62 8113292915",
+    "medsos": "https://www.instagram.com/3cgym.malang?igsh=cWVlZW5peTJvanM3",
+    "link_maps": "3C Gym Malang\nhttps://maps.app.goo.gl/UXRQuUvavv72fwbDA?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_7516462343_1784087195.jpg",
+    "status": "approved",
+    "latitude": -7.964788168078857,
+    "longitude": 112.60382306653536,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 17,
+    "nama": "Momon Gym",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "+62 813-3425-6781",
+    "medsos": "https://www.instagram.com/momon_gym?igsh=MjRlZ2tnd24xa2Vp",
+    "link_maps": "Momon Gym\nhttps://maps.app.goo.gl/TwQULTZMSPfCbUnh9?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784087199.jpg",
+    "status": "approved",
+    "latitude": -7.939223366083506,
+    "longitude": 112.60192058002771,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 18,
+    "nama": "Vega’s Gym",
+    "lokasi": "Kedungkandang",
+    "hp_wa": "+62 8993-9333-05",
+    "medsos": "https://www.instagram.com/vegas__gym?igsh=MWh2NmphdzY0dmZrcg==",
+    "link_maps": "https://share.google/gnLiR30f9p8IKNaYq",
+    "link_drive": "",
+    "gambar": "upload_6701733823_1784087545.jpg",
+    "status": "approved",
+    "latitude": -7.966892399999992,
+    "longitude": 112.66080349981156,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 19,
+    "nama": "Atlas sports club malang",
+    "lokasi": "Sukun",
+    "hp_wa": "+62 851-2228-8874",
+    "medsos": "https://www.instagram.com/atlassportsmalang?igsh=dm81ZGJpbmQ0aHd1",
+    "link_maps": "Atlas Sports Club Malang\nhttps://maps.app.goo.gl/wxHguyWBQwU4sKjZA?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_7516462343_1784087614.jpg",
+    "status": "approved",
+    "latitude": -7.976869392048273,
+    "longitude": 112.60129766653556,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 20,
+    "nama": "GOND FITNESS",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "+62 895-3991-64199",
+    "medsos": "https://www.instagram.com/gond_fitness?igsh=NzZidW9nYXZiaXRn",
+    "link_maps": "GOND FITNESS\nhttps://maps.app.goo.gl/AGpkttPCdDmyMqXy9?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784087979.jpg",
+    "status": "approved",
+    "latitude": -7.93632098778374,
+    "longitude": 112.59995556653504,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 21,
+    "nama": "Evolution Fitness Malang",
+    "lokasi": "Klojen",
+    "hp_wa": "+62 812-1786-6741",
+    "medsos": "https://www.instagram.com/evolution_fitness_malang?igsh=MWVtOXR6c3B2anU4aQ==",
+    "link_maps": "https://share.google/o5bJeZTfERgAeJ7mB",
+    "link_drive": "",
+    "gambar": "upload_6701733823_1784088365.jpg",
+    "status": "approved",
+    "latitude": -7.973034617177298,
+    "longitude": 112.63477626653547,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 22,
+    "nama": "Rumah Sehat kiki",
+    "lokasi": "Sukun",
+    "hp_wa": "+62 812-3533-188",
+    "medsos": "@gymrumahsehatkiki",
+    "link_maps": "https://share.google/vwoRYiI5Z0UC6iynp",
+    "link_drive": "",
+    "gambar": "upload_7516462343_1784088618.jpg",
+    "status": "approved",
+    "latitude": -7.9708425668722676,
+    "longitude": 112.61039079537146,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 23,
+    "nama": "FITNESS ZONE MALANG",
+    "lokasi": "Lowokwaru",
+    "hp_wa": "+62 812-2200-0727",
+    "medsos": "https://www.instagram.com/fitness_zone_malang?igsh=MXZzYTM0Z2hjMHdnMQ==",
+    "link_maps": "FITNESS ZONE MALANG\nhttps://maps.app.goo.gl/Ky6V9Nx2u6uzbyp59?g_st=atm",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784088624.jpg",
+    "status": "approved",
+    "latitude": -7.937619009792409,
+    "longitude": 112.60002969351999,
+    "rating": {
+      "total": 0,
+      "count": 0,
+      "ratings": []
+    }
+  },
+  {
+    "id": 24,
+    "nama": "Detective Gym Malang",
+    "lokasi": "Dau",
+    "hp_wa": "+62 855-1791-989",
+    "medsos": "https://www.instagram.com/detective_gym?igsh=MTB6bXhvOGFhZGFwMg==",
+    "link_maps": "https://maps.app.goo.gl/tVX87akukQ5PcURv8",
+    "link_drive": "",
+    "gambar": "upload_6778223280_1784259623.jpg",
+    "status": "pending",
+    "latitude": null,
+    "longitude": null
+  }
+]
